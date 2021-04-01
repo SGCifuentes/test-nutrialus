@@ -72,15 +72,6 @@ const styles = StyleSheet.create({
     alignItems: "center",
     paddingTop: 20,
   },
-  paragraph: {
-    color: "black",
-    fontSize: 36,
-    fontWeight: "bold",
-  },
-  title: {
-    color: "aqua",
-    fontSize: 36,
-  },
   background: {
     position: "absolute",
     left: 0,
